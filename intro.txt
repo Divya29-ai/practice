@@ -3,3 +3,4 @@ Divya Kashetty -BTech 3rd yr CSE-3 MGIT
  Hobbies: 
 1.Reading Novels 
 2.Singing
+I am Divya working on Java and python
